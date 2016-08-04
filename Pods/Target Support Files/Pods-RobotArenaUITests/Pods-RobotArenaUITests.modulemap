@@ -1,0 +1,6 @@
+framework module Pods_RobotArenaUITests {
+  umbrella header "Pods-RobotArenaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
